@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+sqlalchemy
+requests
+scipy
+jupyter
+flask
+psycopg2-binary
