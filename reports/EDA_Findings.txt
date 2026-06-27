@@ -1,0 +1,23 @@
+KEY EDA FINDINGS
+================================================================================
+
+1. Daily NAV trends showed consistent long-term growth across most mutual fund schemes from 2022 to 2026.
+
+2. SBI Mutual Fund maintained the highest Assets Under Management (AUM), reaching approximately ₹12.5 lakh crore by 2025.
+
+3. Monthly SIP inflows increased steadily and reached an all-time high of ₹31,002 crore in December 2025.
+
+4. Equity-oriented mutual fund categories consistently attracted higher investor inflows than other categories.
+
+5. Investor demographic analysis showed strong participation across multiple age groups, with younger investors actively adopting SIP investments.
+
+6. T30 cities contributed a significant share of mutual fund investments, while B30 cities demonstrated increasing participation.
+
+7. Mutual fund folios grew from approximately 13.26 crore in January 2022 to 26.12 crore in December 2025.
+
+8. The NAV return correlation matrix indicated diversification opportunities among selected mutual fund schemes.
+
+9. Portfolio holdings showed diversified sector allocation across financial services, technology, healthcare, consumer goods, and other industries.
+
+10. Overall analysis indicates strong and consistent growth in India's mutual fund industry across NAV, AUM, SIP inflows, folios, and investor participation.
+
